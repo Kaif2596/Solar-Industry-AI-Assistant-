@@ -4,6 +4,7 @@
 This project is an AI-powered rooftop solar analysis assistant that evaluates the solar installation potential of rooftops using satellite imagery. Designed for both solar professionals and homeowners, the app uses advanced vision models to assess rooftop suitability and calculate installation recommendations and financial returns.
 
 ---
+
 ## 📌 Features
 
 **1.)  🔍 Image-Based Analysis:** 
@@ -43,6 +44,7 @@ This project is an AI-powered rooftop solar analysis assistant that evaluates th
   - Built with Streamlit for easy usage.
 
   ---
+  
 ## 🛠️ Tech Stack
 
 **Component**     &nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   **Technology** 
@@ -59,6 +61,7 @@ Image Handling &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
 Financial Modeling &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Custom cost + ROI logic
 
 ---
+
 ## 📁 Project Structure
 
 ```
@@ -71,6 +74,7 @@ Financial Modeling &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 ```
 
 ---
+
 ## ⚙️ Setup Instructions (Local)
 
 ### 1. Clone the Repository
@@ -101,6 +105,7 @@ streamlit run app.py
 ```
 
 ---
+
 ## 📸 Example Usage
 
 -  Open the app
@@ -119,6 +124,7 @@ streamlit run app.py
 
 
   ---
+  
 ## 📈 Result
 
 Here is a sample result from the Solar Industry AI Assistant Streamlit app after analyzing a rooftop image:
@@ -151,6 +157,22 @@ Here is a sample result from the Solar Industry AI Assistant Streamlit app after
 ![image alt](https://github.com/Kaif2596/Solar-Industry-AI-Assistant-/blob/main/example_images/Trail%20B%20(part%202).png)
 
 
+---
+
+## 🔗 Sample Image Links
+
+**- Image 01:** 
+```
+https://scx1.b-cdn.net/csz/news/800a/2012/howcanyousee.png
+```
+
+**- Image 02:** 
+```
+https://www.zerogravity.fi/wp-content/uploads/2019/11/satellite-data-e1572891876593-621x556.jpg
+```
+
+---
+
 ## 🧪 Performance Metrics
 
 Metric  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Description
@@ -163,6 +185,7 @@ Payback Period  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 
 ---
+
 ## 🔮 Future Improvements
 
 - We can add support for drawing rooftop area manually
@@ -175,6 +198,7 @@ Payback Period  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 
 ---
+
 ## 👨‍💻 Author
 
 - Name: Mohd Kaif Ansari
@@ -187,6 +211,7 @@ Payback Period  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 
 ---
+
 ## 📄 Licensing & Credits
 
 - LLaMA 3.2 model via OpenRouter
