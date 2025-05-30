@@ -123,7 +123,17 @@ streamlit run app.py
 
 Here is a sample result from the Solar Industry AI Assistant Streamlit app after analyzing a rooftop image:
 
-![image alt]()
+![image alt](https://github.com/Kaif2596/Solar-Industry-AI-Assistant-/blob/main/example_images/image%2001.png)
+
+![image alt](https://github.com/Kaif2596/Solar-Industry-AI-Assistant-/blob/main/example_images/image%2002.png)
+
+![image alt](https://github.com/Kaif2596/Solar-Industry-AI-Assistant-/blob/main/example_images/Trail%20A.png)
+
+![image alt](https://github.com/Kaif2596/Solar-Industry-AI-Assistant-/blob/main/example_images/Trail%20A%20(part%202).png)
+
+![image alt](https://github.com/Kaif2596/Solar-Industry-AI-Assistant-/blob/main/example_images/Trail%20B.png)
+
+![image alt](https://github.com/Kaif2596/Solar-Industry-AI-Assistant-/blob/main/example_images/Trail%20B%20(part%202).png)
 
 
 ## 🧪 Performance Metrics
